@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44e5e809-85c0-4754-83a2-9b6a5e70f5cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo3/opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/opleidingsaanbod/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo3/personalinformation2/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/personalinformation2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo4/Demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/Demo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo2/Opdracht 5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo2/oefweek2.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/oefweek2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rashid123497&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rashid123497/rashid123497.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;736a3542-24bf-49fb-a8ff-6abf0651d321&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -41,21 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html.executor": "Run",
-    "JavaScript Debug.personalinformation2.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/hava/Documents/GitHub/rashid123497.github.io",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.personalinformation2.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hava/Documents/GitHub/rashid123497.github.io&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hava\Documents\GitHub\githubtest\labo3" />
@@ -87,7 +96,7 @@
       <workItem from="1729160606333" duration="53000" />
       <workItem from="1729160675367" duration="6058000" />
       <workItem from="1729237189943" duration="1534000" />
-      <workItem from="1729239954849" duration="3986000" />
+      <workItem from="1729239954849" duration="5292000" />
     </task>
     <servers />
   </component>
