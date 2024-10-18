@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44e5e809-85c0-4754-83a2-9b6a5e70f5cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo5/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo5/demo/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo3/ContactInformation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/ContactInformation/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo3/personalinformation2/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/personalinformation2/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/opleidingsaanbod/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/personalinformation2/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/personalinformation2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/Demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/Demo/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -38,6 +41,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.personalinformation2.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/hava/Documents/GitHub/githubtest/labo3",
@@ -78,7 +83,7 @@
       <updated>1728482802643</updated>
       <workItem from="1728482803674" duration="11000" />
       <workItem from="1729160606333" duration="53000" />
-      <workItem from="1729160675367" duration="495000" />
+      <workItem from="1729160675367" duration="6058000" />
     </task>
     <servers />
   </component>
