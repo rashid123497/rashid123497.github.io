@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44e5e809-85c0-4754-83a2-9b6a5e70f5cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo2/Opdracht 5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo2/oefweek2.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/oefweek2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/oefweek2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +67,11 @@
       <recent name="C:\Users\hava\Documents\GitHub\githubtest\labo3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hava\Documents\GitHub\rashid123497.github.io\labo2\oefweek2" />
       <recent name="C:\Users\hava\Documents\GitHub\githubtest\labo5\demo" />
       <recent name="C:\Users\hava\Documents\GitHub\githubtest\labo3\personalinformation2" />
       <recent name="C:\Users\hava\Documents\GitHub\githubtest\labo3\personalinformation" />
       <recent name="C:\Users\hava\Documents\GitHub\githubtest\labo3\opleidingsaanbod" />
-      <recent name="C:\Users\hava\Documents\GitHub\githubtest\labo3\ContactInformation" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -96,7 +93,7 @@
       <workItem from="1729160606333" duration="53000" />
       <workItem from="1729160675367" duration="6058000" />
       <workItem from="1729237189943" duration="1534000" />
-      <workItem from="1729239954849" duration="5292000" />
+      <workItem from="1729239954849" duration="5476000" />
     </task>
     <servers />
   </component>
