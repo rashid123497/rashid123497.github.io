@@ -1,0 +1,13 @@
+.checklist {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.checklist li::before {
+    list-style-image: url("./images/download.jpg");
+    margin-right: 8px;
+}
+
+.checklist li.checked::before {
+    list-style-image: url("./images/download.jpg");
+}
