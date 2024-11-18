@@ -1,13 +1,25 @@
-.checklist {
-    list-style-type: none;
-    padding-left: 0;
+/*.checklist {*/
+/*    list-style-type: none;*/
+/*    padding-left: 0;*/
+/*}*/
+
+/*.checklist li::before {*/
+/*    list-style-image: url("./images/unchecked1.png");*/
+/*    margin-right: 8px;*/
+/*}*/
+
+/*.checklist li.checked::before {*/
+/*    list-style-image: url("./images/checked1.png");*/
+/*}*/
+
+
+
+/* Style for checked items */
+.checklist li.checked {
+    list-style-image: url("./images/checked1.png");
+
 }
 
-.checklist li::before {
-    list-style-image: url("./images/download.jpg");
-    margin-right: 8px;
-}
-
-.checklist li.checked::before {
-    list-style-image: url("./images/download.jpg");
+.checklist:nth-child(1){
+    list-style-image: url("./images/unchecked1.png");
 }
