@@ -1,0 +1,36 @@
+body{
+    background-color: silver;
+    margin: 0px;
+    padding: 0px;
+}
+
+header img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section#midden{
+    background-color: green;
+    float: left;
+    width: 80%;
+    height: 200px;
+    padding: 10px;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+footer{
+    background-color:red;
+    clear: both;
+    margin-top: 100px;
+    height: 128px;
+    text-align: center;
+}
+
+nav{
+    background-color: white;
+    float: left;
+    width: 20%;
+    height: 200px;
+}

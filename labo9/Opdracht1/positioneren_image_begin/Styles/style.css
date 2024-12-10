@@ -1,0 +1,43 @@
+/*article{*/
+/*    border: 1px solid grey;*/
+/*}*/
+
+/*img:nth-child(1){*/
+/*    float: left;*/
+/*}*/
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+body > article {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+
+body > article img {
+    max-width: 150px;
+    margin-right: 10px
+}
+
+
+body > article:nth-child(odd) img {
+    margin-left: 10px;
+    margin-right: 0;
+    order: 1;
+}
+
+
+body > article h2 {
+    font-size: 1.25em;
+    margin-bottom: 10px;
+}
+
+body > article p {
+    margin: 0;
+}
